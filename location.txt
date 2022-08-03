@@ -1,0 +1,1 @@
+in order to pull, we need to create a new file whose name is location.txt
